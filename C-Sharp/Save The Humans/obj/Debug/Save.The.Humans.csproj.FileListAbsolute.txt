@@ -1,0 +1,96 @@
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\bin\Debug\App.xbf
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\bin\Debug\MainPage.xbf
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\bin\Debug\Save The Humans.xr.xml
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\bin\Debug\Save The Humans.exe
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\bin\Debug\Save The Humans.pdb
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\bin\Debug\resources.pri
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\bin\Debug\AppxManifest.xml
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\bin\Debug\Save The Humans.build.appxrecipe
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\App.g.i.cs
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\App.g.cs
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\MainPage.g.i.cs
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\MainPage.g.cs
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\App.xaml
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\App.xbf
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\MainPage.xaml
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\MainPage.xbf
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\Save The Humans.exe
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\Save The Humans.pdb
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\priconfig.xml
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\priconfig.xml.intermediate
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\layout.resfiles
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\layout.resfiles.intermediate
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\resources.resfiles
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\resources.resfiles.intermediate
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\pri.resfiles
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\pri.resfiles.intermediate
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\qualifiers.txt
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Dunn\Documents\Visual Studio 2013\Projects\Save The Humans\Save The Humans\obj\Debug\ProjectArchitectures.txt
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\bin\Debug\App.xbf
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\bin\Debug\MainPage.xbf
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\bin\Debug\Save The Humans.xr.xml
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\bin\Debug\Save The Humans.exe
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\bin\Debug\Save The Humans.pdb
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\bin\Debug\resources.pri
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\bin\Debug\AppxManifest.xml
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\bin\Debug\Save The Humans.build.appxrecipe
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\App.g.i.cs
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\App.g.cs
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\MainPage.g.i.cs
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\MainPage.g.cs
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\App.xaml
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\App.xbf
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\MainPage.xaml
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\MainPage.xbf
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\Save The Humans.exe
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\Save The Humans.pdb
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\priconfig.xml
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\priconfig.xml.intermediate
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\layout.resfiles
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\layout.resfiles.intermediate
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\resources.resfiles
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\resources.resfiles.intermediate
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\pri.resfiles
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\pri.resfiles.intermediate
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\qualifiers.txt
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Dunn\HeadFirst\C-sharp\Save The Humans\Save The Humans\obj\Debug\ProjectArchitectures.txt
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\bin\Debug\App.xbf
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\bin\Debug\MainPage.xbf
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\bin\Debug\Save The Humans.xr.xml
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\bin\Debug\Save The Humans.exe
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\bin\Debug\Save The Humans.pdb
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\bin\Debug\resources.pri
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\bin\Debug\AppxManifest.xml
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\bin\Debug\Save The Humans.build.appxrecipe
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\App.g.i.cs
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\App.g.cs
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\MainPage.g.i.cs
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\MainPage.g.cs
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\App.xaml
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\MainPage.xaml
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\App.xbf
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\MainPage.xbf
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\Save The Humans.exe
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\Save The Humans.pdb
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\priconfig.xml
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\priconfig.xml.intermediate
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\layout.resfiles
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\layout.resfiles.intermediate
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\resources.resfiles
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\resources.resfiles.intermediate
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\pri.resfiles
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\pri.resfiles.intermediate
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\qualifiers.txt
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\ProjectArchitectures.txt

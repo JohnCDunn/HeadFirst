@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-3JH48BL</Machine>
+    <WindowsUser>Dunn</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>424f1881-4b55-49da-a926-244c762113b7</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>CF07CE22C3D2E5201F76F2A6C24D59E52FEF9CF11496B8ECEF8ED974435DF996</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>424f1881-4b55-49da-a926-244c762113b7_1.0.0.0_neutral__7zhj4phsrm5h0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>424f1881-4b55-49da-a926-244c762113b7_7zhj4phsrm5h0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>424f1881-4b55-49da-a926-244c762113b7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Dunn</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-29T17:14:25.149</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\bin\Debug\Save The Humans.exe">
+      <PackagePath>Save The Humans.exe</PackagePath>
+      <Modified>2016-02-29T17:14:24.482</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-23T04:01:36.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-23T04:01:36.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-23T04:01:36.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-23T04:01:36.602</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-02-29T17:14:24.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-02-29T17:14:24.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\bin\Debug\Save The Humans.xr.xml">
+      <PackagePath>Save The Humans.xr.xml</PackagePath>
+      <Modified>2016-02-26T03:53:15.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dunn\Git\HeadFirst\C-Sharp\Save The Humans\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-02-29T17:14:24.726</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
